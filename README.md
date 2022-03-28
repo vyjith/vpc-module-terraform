@@ -1,2 +1,3 @@
-# vpc-module-fuji
-vpc module fuji
+# vpc-module-terraform
+vpc module terraform
+
